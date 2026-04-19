@@ -240,8 +240,6 @@ streamlit run app.py
 
 Aman Sagar
 
-IIT Madras BS Degree
-
 ---
 
 ## License
