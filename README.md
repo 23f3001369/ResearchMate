@@ -208,8 +208,31 @@ streamlit run app.py
 ---
 
 ## Screenshots
+## Screenshots
 
-(Add screenshots here)
+### Home Page
+![Home](screenshots/search_research.png)
+
+---
+
+### Upload and Summarize
+![Summary](screenshots/Summarize.png)
+
+---
+
+### Chat with Paper
+![Chat](screenshots/chat.png)
+
+---
+
+### Viva Questions
+![Viva](screenshots/vivaq.png)
+
+---
+
+### Literature Review Generator
+![Viva](screenshots/Lit_review.png)
+
 
 ---
 
