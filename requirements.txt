@@ -1,0 +1,12 @@
+streamlit
+fastapi
+uvicorn
+requests
+chromadb
+pandas
+numpy
+scikit-learn
+python-multipart
+pymupdf
+sentence-transformers
+torch

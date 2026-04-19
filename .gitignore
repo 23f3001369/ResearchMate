@@ -1,0 +1,10 @@
+researchenv/
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+data/uploads/
+data/chroma_db/
+.streamlit/
+trash/
