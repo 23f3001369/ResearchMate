@@ -221,7 +221,7 @@ streamlit run app.py
 ---
 
 ### Chat with Paper
-![Chat](screenshots/chat.png)
+![Chat](screenshots/Chat.png)
 
 ---
 
@@ -239,8 +239,6 @@ streamlit run app.py
 ## Author
 
 Aman Sagar
-
-IIT Madras BS Degree
 
 ---
 
